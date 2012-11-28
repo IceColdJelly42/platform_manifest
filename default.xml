@@ -230,8 +230,6 @@
   <project path="gdk" name="platform/gdk" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/invensense" name="platform/hardware/invensense" />
-  <project path="hardware/libhardware" name="platform/hardware/libhardware" />
-  <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" />
   <project path="hardware/msm7k" name="platform/hardware/msm7k" />
   <project path="hardware/qcom/audio" name="platform/hardware/qcom/audio" />
   <project path="hardware/qcom/bt" name="platform/hardware/qcom/bt" />
@@ -244,7 +242,7 @@
   <project path="hardware/qcom/power" name="platform/hardware/qcom/power" />
   <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" />
   <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" />
-  <project path="hardware/ril" name="platform/hardware/ril" />
+  <project path="hardware/ril" name="android_hardware_ril" remote="cm" revision="mr1-staging" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
   <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" />
   <project path="libcore" name="platform/libcore" />
@@ -343,7 +341,6 @@
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/security" name="platform/system/security" />
-  <project path="system/vold" name="platform/system/vold" />
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="tools/motodev" name="platform/tools/motodev" />
 
@@ -359,8 +356,12 @@
 
   <!-- Begin IceColdJelly repos -->
   <project path="platform_manifest" name="platform_manifest" remote="jelly42" revision="jb-mr1" />
-  <project path="vendor/htc" name="vendor_htc" remote="jelly42" revision="jb-mr1"/>
-  <project path="vendor/aokp" name="vendor_aokp" remote="jelly42" revision="jb-mr1"/>
+  <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="jelly42" revision="jb-mr1"/>
+  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="jelly42" revision="jb-mr1" />
+  <project path="hardware/libhardware/legacy" name="android_hardware_libhardware_legacy" remote="jelly42" revision="jb-mr1" />
+  <project path="system/vold" name="android_system_vold" remote="jelly42" revision="jb-mr1" />
+  <project path="vendor/htc" name="vendor_htc" remote="jelly42" revision="jb-mr1" />
+  <project path="vendor/aokp" name="vendor_aokp" remote="jelly42" revision="jb-mr1" />
 
 
   <!-- Begin custom repos repos -->
