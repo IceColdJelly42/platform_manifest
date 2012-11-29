@@ -230,6 +230,8 @@
   <project path="gdk" name="platform/gdk" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/invensense" name="platform/hardware/invensense" />
+  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="cm" revision="mr1-staging" />
+  <project path="hardware/libhardware/legacy" name="android_hardware_libhardware_legacy" remote="cm" revision="mr1-staging" />
   <project path="hardware/ril" name="android_hardware_ril" remote="cm" revision="mr1-staging" />
   <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
@@ -347,8 +349,6 @@
   <!-- Begin IceColdJelly42 repos -->
   <project path="platform_manifest" name="platform_manifest" remote="jelly42" revision="jb-mr1" />
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="jelly42" revision="jb-mr1"/>
-  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="jelly42" revision="jb-mr1" />
-  <project path="hardware/libhardware/legacy" name="android_hardware_libhardware_legacy" remote="jelly42" revision="jb-mr1" />
   <project path="vendor/htc" name="vendor_htc" remote="jelly42" revision="jb-mr1" />
   <project path="vendor/aokp" name="vendor_aokp" remote="jelly42" revision="jb-mr1" />
 
