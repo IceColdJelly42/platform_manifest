@@ -341,6 +341,7 @@
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/security" name="platform/system/security" />
+  <project path="system/vold" name="platform/system/vold" />
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="tools/motodev" name="platform/tools/motodev" />
 
@@ -358,7 +359,6 @@
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="jelly42" revision="jb-mr1"/>
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="jelly42" revision="jb-mr1" />
   <project path="hardware/libhardware/legacy" name="android_hardware_libhardware_legacy" remote="jelly42" revision="jb-mr1" />
-  <project path="system/vold" name="android_system_vold" remote="jelly42" revision="jb-mr1" />
   <project path="vendor/htc" name="vendor_htc" remote="jelly42" revision="jb-mr1" />
   <project path="vendor/aokp" name="vendor_aokp" remote="jelly42" revision="jb-mr1" />
 
