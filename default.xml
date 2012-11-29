@@ -243,7 +243,6 @@
   <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" />
   <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" />
   <project path="hardware/ril" name="android_hardware_ril" remote="cm" revision="mr1-staging" />
-  <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
   <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" />
   <project path="libcore" name="platform/libcore" />
   <project path="libnativehelper" name="platform/libnativehelper" />
@@ -354,7 +353,7 @@
 
   <project path="packages/wallpapers/SwagPapers" name="AOKP/packages_wallpapers_SwagPapers_v2" remote="aokp" revision="jb-mr1" />
 
-  <!-- Begin IceColdJelly repos -->
+  <!-- Begin IceColdJelly42 repos -->
   <project path="platform_manifest" name="platform_manifest" remote="jelly42" revision="jb-mr1" />
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="jelly42" revision="jb-mr1"/>
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="jelly42" revision="jb-mr1" />
@@ -365,5 +364,6 @@
 
   <!-- Begin custom repos repos -->
   <project path="external/polly" name="adrian-bl/android_pollyd" remote="github" revision="master" />
+  <project path="system/vold" name="IceColdJelly/android_hardware_ti_wlan" remote="github" revision="jb" />
   <project path="packages/apps/Polly" name="adrian-bl/android_jpolly" remote="github" revision="master" />
 </manifest>
