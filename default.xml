@@ -355,6 +355,6 @@
 
   <!-- Begin custom repos repos -->
   <project path="external/polly" name="adrian-bl/android_pollyd" remote="github" revision="master" />
-  <project path="system/vold" name="IceColdJelly/android_hardware_ti_wlan" remote="github" revision="jb" />
+  <project path="hardware/ti/wlan" name="IceColdJelly/android_hardware_ti_wlan" remote="github" revision="jb" />
   <project path="packages/apps/Polly" name="adrian-bl/android_jpolly" remote="github" revision="master" />
 </manifest>
