@@ -355,6 +355,7 @@
 
 
   <!-- Begin custom repos repos -->
+  <project path="external/hox_tools" name="adrian-bl-hox-jb/android_hox_tools" remote="github" revision="master" />
   <project path="external/polly" name="adrian-bl/android_pollyd" remote="github" revision="master" />
   <project path="hardware/ril" name="adrian-bl/android_hardware_ril" remote="github" revision="jb" />
   <project path="packages/apps/Polly" name="adrian-bl/android_jpolly" remote="github" revision="master" />
