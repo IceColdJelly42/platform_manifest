@@ -203,7 +203,6 @@
   <project path="external/yaffs2" name="platform/external/yaffs2" />
   <project path="external/zlib" name="platform/external/zlib" />
   <project path="external/zxing" name="platform/external/zxing" />
-  <project path="frameworks/av" name="android_frameworks_av" remote="cm" revision="mr1-staging" />
   <project path="frameworks/compile/libbcc" name="android_frameworks_compile_libbcc" remote="cm" revision="mr1-staging" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
   <project path="frameworks/compile/llvm-ndk-cc" name="platform/frameworks/compile/llvm-ndk-cc" />
@@ -347,6 +346,7 @@
   <project path="platform_manifest" name="platform_manifest" remote="jelly42" revision="jb-mr1" />
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="jelly42" revision="jb-mr1"/>
   <project path="frameworks/base" name="frameworks_base" remote="jelly42" revision="jb-mr1" />
+  <project path="frameworks/av" name="frameworks_av" remote="jelly42" revision="jb-mr1" />
   <project path="frameworks/native" name="frameworks_native" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="jelly42" revision="jb-mr1" />
   <project path="system/core" name="android_system_core" remote="jelly42" revision="jb-mr1" />
