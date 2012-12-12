@@ -347,6 +347,7 @@
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="jelly42" revision="jb-mr1"/>
   <project path="frameworks/base" name="frameworks_base" remote="jelly42" revision="jb-mr1" />
   <project path="frameworks/native" name="frameworks_native" remote="jelly42" revision="jb-mr1" />
+  <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="jelly42" revision="jb-mr1" />
   <project path="system/core" name="android_system_core" remote="jelly42" revision="jb-mr1" />
   <project path="vendor/htc" name="vendor_htc" remote="jelly42" revision="jb-mr1" />
