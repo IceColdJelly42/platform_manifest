@@ -265,7 +265,6 @@
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/ROMControl" name="AOKP/packages_apps_ROMControl" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/Settings" name="AOKP/packages_apps_Settings" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
@@ -345,6 +344,7 @@
   <!-- Begin IceColdJelly42 repos -->
   <project path="platform_manifest" name="platform_manifest" remote="jelly42" revision="jb-mr1" />
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="jelly42" revision="jb-mr1"/>
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="jelly42" revision="jb-mr1" />
   <project path="frameworks/base" name="frameworks_base" remote="jelly42" revision="jb-mr1" />
   <project path="frameworks/native" name="frameworks_native" remote="jelly42" revision="jb-mr1" />
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" remote="jelly42" revision="jb-mr1" />
