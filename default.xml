@@ -352,7 +352,7 @@
   <project path="vendor/htc" name="vendor_htc" remote="jelly42" revision="jb-mr1" />
   <project path="vendor/aokp" name="vendor_aokp" remote="jelly42" revision="jb-mr1" />
 
-  <project path="hardware/ti/wlan" name="IceColdJelly/android_hardware_ti_wlan" revision="github" revision="jb" />
+  <project path="hardware/ti/wlan" name="IceColdJelly/android_hardware_ti_wlan" remote="github" revision="jb" />
 
   <!-- Begin custom repos repos -->
   <project path="external/hox_tools" name="adrian-bl-hox-jb/android_hox_tools" remote="github" revision="master" />
