@@ -326,7 +326,6 @@
   <project path="system/bluetooth" name="platform/system/bluetooth" />
   <project path="system/extras" name="AOKP/system_extras" remote="aokp" revision="jb-mr1" />
   <project path="system/media" name="platform/system/media" />
-  <project path="system/netd" name="platform/system/netd" />
   <project path="system/security" name="platform/system/security" />
   <project path="system/vold" name="AOKP/system_vold" remote="aokp" revision="jb-mr1" />
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
@@ -351,6 +350,7 @@
   <project path="frameworks/native" name="frameworks_native" remote="jelly42" revision="jb-mr1" />
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" remote="jelly42" revision="jb-mr1" />
   <project path="system/core" name="android_system_core" remote="jelly42" revision="jb-mr1" />
+  <project path="system/netd" name="system_netd" remote="jelly42" revision="jb-mr1" />
   <project path="vendor/htc" name="vendor_htc" remote="jelly42" revision="jb-mr1" />
   <project path="vendor/aokp" name="vendor_aokp" remote="jelly42" revision="jb-mr1" />
 
