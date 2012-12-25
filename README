@@ -19,3 +19,13 @@ Then to sync up:
 To build run this script:
 
     ./vendor/aokp/build.sh
+
+
+HINT:
+If you want to use newer and faster version of ccache, you need to:
+
+    sudo apt-get install ccache
+
+and than in your home folder in .bashrc file put this line:
+
+    export CUSTOM_CCACHE_PATH=/usr/bin
