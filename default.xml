@@ -253,12 +253,10 @@
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
-  <project path="packages/apps/Mms" name="AOKP/packages_apps_Mms" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="AOKP/packages_apps_Nfc" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/PackageInstaller" name="AOKP/packages_apps_PackageInstaller" remote="aokp" revision="jb-mr1" />
-  <project path="packages/apps/Phone" name="AOKP/packages_apps_Phone" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
@@ -342,6 +340,8 @@
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="jelly42" revision="jb-mr1"/>
   <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Email" name="android_packages_apps_Email" remote="jelly42" revision="jb-mr1" />
+  <project path="packages/apps/Mms" name="packages_apps_Mms" remote="jelly42" revision="jb-mr1" />
+  <project path="packages/apps/Phone" name="packages_apps_Phone" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/ROMControl" name="packages_apps_ROMControl" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="jelly42" revision="jb-mr1" />
   <project path="frameworks/av" name="frameworks_av" remote="jelly42" revision="jb-mr1" />
