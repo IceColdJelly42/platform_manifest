@@ -161,7 +161,7 @@
   <project path="external/openfst" name="platform/external/openfst" />
   <project path="external/openssh" name="Stevespear426/external_openssh" remote="github" revision="jb-mr1" />
   <project path="external/openssl" name="Stevespear426/external_openssl" remote="github" revision="jb-mr1" />
-  <project path="external/oprofile" name="platform/external/oprofile" />
+  <project path="external/oprofile" name="android_external_oprofile" remote="cm" revision="cm-10.1" />
   <project path="external/ping" name="Stevespear426/external_ping" remote="github" revision="jb-mr1" />
   <project path="external/ping6" name="platform/external/ping6" />
   <project path="external/ppp" name="platform/external/ppp" />
