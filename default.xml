@@ -339,6 +339,7 @@
   <project path="dalvik" name="android_dalvik" remote="jelly42" revision="jb-mr1" />
   <project path="platform_manifest" name="platform_manifest" remote="jelly42" revision="jb-mr1" />
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="jelly42" revision="jb-mr1"/>
+  <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="jelly42" revision="jb42" />
   <project path="external/hox_tools" name="android_hox_tools" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Browser" name="packages_apps_Browser" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="jelly42" revision="jb-mr1" />
@@ -358,7 +359,6 @@
   <project path="vendor/aokp" name="vendor_aokp" remote="jelly42" revision="jb-mr1" />
 
   <!-- Begin custom repos repos -->
-  <project path="external/bluetooth/bluedroid" name="adrian-bl-hox-jb/android_external_bluetooth_bluedroid" remote="github" revision="jb42" />
   <project path="external/polly" name="adrian-bl/android_pollyd" remote="github" revision="master" />
   <project path="external/wpa_supplicant_8" name="adrian-bl-hox-jb/android_external_wpa_supplicant_8" remote="github" revision="jb42" />
   <project path="hardware/ril" name="adrian-bl/android_hardware_ril" remote="github" revision="jb" />
