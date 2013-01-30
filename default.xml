@@ -319,7 +319,7 @@
   <project path="system/bluetooth" name="platform/system/bluetooth" />
   <project path="system/extras" name="AOKP/system_extras" remote="aokp" revision="jb-mr1" />
   <project path="system/media" name="platform/system/media" />
-  <project path="system/security" name="platform/system/security" />
+  <project path="system/security" name="Stevespear426/system_security" remote="github" revision="jb-mr1" />
   <project path="system/vold" name="AOKP/system_vold" remote="aokp" revision="jb-mr1" />
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="tools/motodev" name="platform/tools/motodev" />
