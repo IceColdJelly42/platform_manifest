@@ -344,6 +344,7 @@
   <project path="external/skia" name="android_external_skia" remote="jelly42" revision="cm-10.1" />
   <project path="external/webkit" name="android_external_webkit" remote="jelly42" revision="cm-10.1" />
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="jelly42" revision="jb-mr1" />
+  <project path="hardware/ril" name="android_hardware_ril" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Browser" name="packages_apps_Browser" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="jelly42" revision="jb-mr1" />
@@ -367,6 +368,5 @@
 
   <!-- Begin custom repos repos -->
   <project path="external/polly" name="adrian-bl/android_pollyd" remote="github" revision="master" />
-  <project path="hardware/ril" name="adrian-bl/android_hardware_ril" remote="github" revision="jb" />
   <project path="packages/apps/Polly" name="adrian-bl/android_jpolly" remote="github" revision="master" />
 </manifest>
