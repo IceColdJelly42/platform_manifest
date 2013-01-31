@@ -26,6 +26,7 @@
   <project path="build" name="android_build" remote="jelly42" revision="jb-mr1" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
+  <project path="bionic" name="pbeeler/android_bionic" remote="github" revision="sm-jb-mr1" />
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
@@ -66,7 +67,7 @@
   <project path="external/chromium" name="Stevespear426/external_chromium" remote="github" revision="jb-mr1" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" />
   <project path="external/cibu-fonts" name="platform/external/cibu-fonts" />
-  <project path="external/clang" name="platform/external/clang" />
+  <project path="external/clang" name="pbeeler/android_external_clang" remote="github" revision="sm-jb-mr1" />
   <project path="external/compiler-rt" name="platform/external/compiler-rt" />
   <project path="external/dbus" name="platform/external/dbus" />
   <project path="external/dexmaker" name="platform/external/dexmaker" />
@@ -140,7 +141,7 @@
   <project path="external/libyuv" name="platform/external/libyuv" />
   <project path="external/linux-tools-perf" name="platform/external/linux-tools-perf" />
   <project path="external/littlemock" name="platform/external/littlemock" />
-  <project path="external/llvm" name="android_external_llvm" remote="cm" revision="cm-10.1" />
+  <project path="external/llvm" name="pbeeler/android_external_llvm" remote="github" revision="sm-jb-mr1" />
   <project path="external/lohit-fonts" name="platform/external/lohit-fonts" />
   <project path="external/markdown" name="platform/external/markdown" />
   <project path="external/mdnsresponder" name="platform/external/mdnsresponder" />
@@ -160,6 +161,7 @@
   <project path="external/openfst" name="platform/external/openfst" />
   <project path="external/openssh" name="Stevespear426/external_openssh" remote="github" revision="jb-mr1" />
   <project path="external/openssl" name="Stevespear426/external_openssl" remote="github" revision="jb-mr1" />
+  <project path="external/oprofile" name="pbeeler/android_external_oprofile" remote="github" revision="sm-jb-mr1" />
   <project path="external/ping" name="Stevespear426/external_ping" remote="github" revision="jb-mr1" />
   <project path="external/ping6" name="platform/external/ping6" />
   <project path="external/ppp" name="platform/external/ppp" />
@@ -167,7 +169,7 @@
   <project path="external/protobuf" name="platform/external/protobuf" />
   <project path="external/qemu" name="platform/external/qemu" />
   <project path="external/qemu-pc-bios" name="platform/external/qemu-pc-bios" />
-  <project path="external/quake" name="platform/external/quake" />
+  <project path="external/quake" name="pbeeler/android_external_quake" remote="github" revision="sm-jb-mr1" />
   <project path="external/regex-re2" name="platform/external/regex-re2" />
   <project path="external/replicaisland" name="platform/external/replicaisland" />
   <project path="external/safe-iop" name="platform/external/safe-iop" />
@@ -190,7 +192,6 @@
   <project path="external/tremolo" name="platform/external/tremolo" />
   <project path="external/v8" name="Stevespear426/external_v8" remote="github" revision="jb-mr1" />
   <project path="external/valgrind" name="platform/external/valgrind" />
-  <project path="external/webkit" name="android_external_webkit" remote="cm" revision="cm-10.1" />
   <project path="external/webp" name="platform/external/webp" />
   <project path="external/webrtc" name="platform/external/webrtc" />
   <project path="external/wpa_supplicant_6" name="platform/external/wpa_supplicant_6" />
@@ -199,12 +200,12 @@
   <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="cm-10.1" />
   <project path="external/zlib" name="android_external_zlib" remote="cm" revision="cm-10.1" />
   <project path="external/zxing" name="platform/external/zxing" />
-  <project path="frameworks/compile/libbcc" name="android_frameworks_compile_libbcc" remote="cm" revision="cm-10.1" />
+  <project path="frameworks/compile/libbcc" name="pbeeler/android_frameworks_compile_libbcc" remote="github" revision="sm-jb-mr1" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
   <project path="frameworks/compile/llvm-ndk-cc" name="platform/frameworks/compile/llvm-ndk-cc" />
   <project path="frameworks/compile/mclinker" name="Stevespear426/frameworks_compile_mclinker" remote="github" revision="jb-mr1" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" />
-  <project path="frameworks/ex" name="Stevespear426/frameworks_ex" remote="github" revision="jb-mr1" />
+  <project path="frameworks/ex" name="pbeeler/android_frameworks_ex" remote="github" revision="sm-jb-mr1" />
   <project path="frameworks/mff" name="platform/frameworks/mff" />
   <project path="frameworks/ml" name="platform/frameworks/ml" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" />
@@ -217,7 +218,7 @@
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="cm" revision="cm-10.1" />
   <project path="frameworks/opt/vcard" name="android_frameworks_opt_vcard" remote="cm" revision="cm-10.1" />
   <project path="frameworks/rs" name="Stevespear426/frameworks_rs" remote="github" revision="jb-mr1" />
-  <project path="frameworks/support" name="platform/frameworks/support" />
+  <project path="frameworks/support" name="pbeeler/android_frameworks_support" remote="github" revision="sm-jb-mr1" />
   <project path="frameworks/testing" name="platform/frameworks/testing" />
   <project path="frameworks/wilhelm" name="Stevespear426/frameworks_wilhelm" remote="github" revision="jb-mr1" />
   <project path="gdk" name="platform/gdk" />
@@ -230,7 +231,7 @@
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
   <project path="hardware/ti/wpan" name="android_hardware_ti_wpan" remote="cm" revision="cm-10.1" />
-  <project path="libcore" name="Stevespear426/libcore" remote="github" revision="jb-mr1" />
+  <project path="libcore" name="pbeeler/android_libcore" remote="github" revision="sm-jb-mr1" />
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
@@ -336,14 +337,13 @@
   <project path="packages/wallpapers/SwagPapers" name="AOKP/packages_wallpapers_SwagPapers_v2" remote="aokp" revision="jb-mr1" />
 
   <!-- Begin IceColdJelly42 repos -->
-  <project path="bionic" name="android_bionic" remote="jelly42" revision="jb-mr1" />
   <project path="dalvik" name="android_dalvik" remote="jelly42" revision="jb-mr1" />
   <project path="platform_manifest" name="platform_manifest" remote="jelly42" revision="jb-mr1" />
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="jelly42" revision="jb-mr1"/>
   <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="jelly42" revision="jb42" />
   <project path="external/hox_tools" name="android_hox_tools" remote="jelly42" revision="jb-mr1" />
-  <project path="external/oprofile" name="android_external_oprofile" remote="jelly42" revision="cm-10.1" />
   <project path="external/skia" name="android_external_skia" remote="jelly42" revision="cm-10.1" />
+  <project path="external/webkit" name="android_external_webkit" remote="jelly42" revision="cm-10.1" />
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Browser" name="packages_apps_Browser" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="jelly42" revision="jb-mr1" />
