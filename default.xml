@@ -344,7 +344,7 @@
   <project path="external/hox_tools" name="android_hox_tools" remote="jelly42" revision="jb-mr1" />
   <project path="external/oprofile" name="android_external_oprofile" remote="jelly42" revision="cm-10.1" />
   <project path="external/skia" name="android_external_skia" remote="jelly42" revision="cm-10.1" />
-  <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="jelly42" revision="jb42" />
+  <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Browser" name="packages_apps_Browser" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="jelly42" revision="jb-mr1" />
