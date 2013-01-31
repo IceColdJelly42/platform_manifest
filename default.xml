@@ -79,7 +79,7 @@
   <project path="external/easymock" name="platform/external/easymock" />
   <project path="external/eclipse-basebuilder" name="platform/external/eclipse-basebuilder" />
   <project path="external/eclipse-windowbuilder" name="platform/external/eclipse-windowbuilder" />
-  <project path="external/elfutils" name="platform/external/elfutils" />
+  <project path="external/elfutils" name="pbeeler/android_external_elfutils" remote="github" revision="sm-jb-mr1" />
   <project path="external/embunit" name="platform/external/embunit" />
   <project path="external/emma" name="platform/external/emma" />
   <project path="external/esd" name="platform/external/esd" />
@@ -319,7 +319,6 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
-  <project path="system/extras" name="AOKP/system_extras" remote="aokp" revision="jb-mr1" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/security" name="Stevespear426/system_security" remote="github" revision="jb-mr1" />
   <project path="system/vold" name="AOKP/system_vold" remote="aokp" revision="jb-mr1" />
@@ -361,6 +360,7 @@
   <project path="frameworks/base" name="frameworks_base" remote="jelly42" revision="jb-mr1" />
   <project path="frameworks/native" name="frameworks_native" remote="jelly42" revision="jb-mr1" />
   <project path="system/core" name="android_system_core" remote="jelly42" revision="jb-mr1" />
+  <project path="system/extras" name="system_extras" remote="jelly42" revision="jb-mr1" />
   <project path="system/netd" name="system_netd" remote="jelly42" revision="jb-mr1" />
   <project path="vendor/htc" name="vendor_htc" remote="jelly42" revision="jb-mr1" />
   <project path="vendor/aokp" name="vendor_aokp" remote="jelly42" revision="jb-mr1" />
