@@ -174,6 +174,7 @@
   <project path="external/safe-iop" name="platform/external/safe-iop" />
   <project path="external/sepolicy" name="platform/external/sepolicy" />
   <project path="external/smali" name="platform/external/smali" />
+  <project path="external/skia" name="SaberMod/android_external_skia" remote="github" revision="s,-jb-mr1" />
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/speex" name="platform/external/speex" />
   <project path="external/sqlite" name="platform/external/sqlite" />
@@ -342,7 +343,6 @@
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="jelly42" revision="jb-mr1"/>
   <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="jelly42" revision="jb42" />
   <project path="external/hox_tools" name="android_hox_tools" remote="jelly42" revision="jb-mr1" />
-  <project path="external/skia" name="android_external_skia" remote="jelly42" revision="cm-10.1" />
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="jelly42" revision="jb-mr1" />
   <project path="hardware/ril" name="android_hardware_ril" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Browser" name="packages_apps_Browser" remote="jelly42" revision="jb-mr1" />
