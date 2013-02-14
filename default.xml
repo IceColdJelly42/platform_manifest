@@ -29,7 +29,7 @@
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
-  <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="cm-10.1" />
+  <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="mr1.1-staging" />
   <project path="cts" name="platform/cts" />
   <project path="development" name="SaberMod/android_development" remote="github" revision="sm-jb-mr1" />
   <project path="device/asus/grouper" name="AOKP/device_asus_grouper" remote="aokp" revision="jb-mr1" />
@@ -198,8 +198,8 @@
   <project path="external/wpa_supplicant_6" name="platform/external/wpa_supplicant_6" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" />
-  <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="cm-10.1" />
-  <project path="external/zlib" name="android_external_zlib" remote="cm" revision="cm-10.1" />
+  <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="mr1.1-staging" />
+  <project path="external/zlib" name="android_external_zlib" remote="cm" revision="mr1.1-staging" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/compile/libbcc" name="SaberMod/android_frameworks_compile_libbcc" remote="github" revision="sm-jb-mr1" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
@@ -216,7 +216,7 @@
   <project path="frameworks/opt/mailcommon" name="platform/frameworks/opt/mailcommon" />
   <project path="frameworks/opt/mms" name="platform/frameworks/opt/mms" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" />
-  <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="cm" revision="cm-10.1" />
+  <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="cm" revision="mr1.1-staging" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" />
   <project path="frameworks/rs" name="SaberMod/android_frameworks_rs" remote="github" revision="sm-jb-mr1" />
   <project path="frameworks/support" name="SaberMod/android_frameworks_support" remote="github" revision="sm-jb-mr1" />
@@ -225,27 +225,27 @@
   <project path="gdk" name="platform/gdk" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" revision="refs/tags/android-4.2.1_r1.2" />
   <project path="hardware/invensense" name="platform/hardware/invensense" revision="refs/tags/android-4.2.1_r1.2" />
-  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="cm" revision="cm-10.1" />
-  <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote="cm" revision="cm-10.1" />
-  <project path="hardware/ti/wpan" name="android_hardware_ti_wpan" remote="cm" revision="cm-10.1" />
+  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="cm" revision="mr1.1-staging" />
+  <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote="cm" revision="mr1.1-staging" />
+  <project path="hardware/ti/wpan" name="android_hardware_ti_wpan" remote="cm" revision="mr1.1-staging" />
   <project path="libcore" name="SaberMod/android_libcore" remote="github" revision="sm-jb-mr1" />
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
-  <project path="packages/apps/Calculator" name="android_packages_apps_Calculator" remote="cm" revision="cm-10.1" />
+  <project path="packages/apps/Calculator" name="android_packages_apps_Calculator" remote="cm" revision="mr1.1-staging" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
-  <project path="packages/apps/CMFileManager" name="android_packages_apps_CMFileManager" remote="cm" revision="cm-10.1" />
-  <project path="packages/apps/DSPManager" name="android_packages_apps_DSPManager" remote="cm" revision="cm-10.1" />
+  <project path="packages/apps/CMFileManager" name="android_packages_apps_CMFileManager" remote="cm" revision="mr1.1-staging" />
+  <project path="packages/apps/DSPManager" name="android_packages_apps_DSPManager" remote="cm" revision="mr1.1-staging" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
-  <project path="packages/apps/Gallery2" name="android_packages_apps_Gallery2" remote="cm" revision="cm-10.1" />
+  <project path="packages/apps/Gallery2" name="android_packages_apps_Gallery2" remote="cm" revision="mr1.1-staging" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher2" name="AOKP/packages_apps_Launcher2" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
-  <project path="packages/apps/LockClock" name="android_packages_apps_LockClock" remote="cm" revision="cm-10.1" />
+  <project path="packages/apps/LockClock" name="android_packages_apps_LockClock" remote="cm" revision="mr1.1-staging" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/PackageInstaller" name="AOKP/packages_apps_PackageInstaller" remote="aokp" revision="jb-mr1" />
@@ -253,7 +253,7 @@
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="AOKP/packages_apps_QuickSearchBox" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
-  <project path="packages/apps/SoundRecorder" name="android_packages_apps_SoundRecorder" remote="cm" revision="cm-10.1" />
+  <project path="packages/apps/SoundRecorder" name="android_packages_apps_SoundRecorder" remote="cm" revision="mr1.1-staging" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
@@ -324,9 +324,9 @@
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="aokp" revision="jb-mr1" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="AOKP/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr1" />
-  <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="cm-10.1" />
-  <project path="vendor/tmobile/providers/ThemeManager" name="android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="cm-10.1" />
-  <project path="vendor/tmobile/products/themes" name="android_vendor_tmobile_products_themes" remote="cm" revision="cm-10.1" />
+  <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="mr1.1-staging" />
+  <project path="vendor/tmobile/providers/ThemeManager" name="android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="mr1.1-staging" />
+  <project path="vendor/tmobile/products/themes" name="android_vendor_tmobile_products_themes" remote="cm" revision="mr1.1-staging" />
 
   <project path="packages/wallpapers/SwagPapers" name="AOKP/packages_wallpapers_SwagPapers_v2" remote="aokp" revision="jb-mr1" />
 
@@ -340,7 +340,7 @@
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="jelly42" revision="jb-mr1" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="jelly42" revision="jb-mr1" />
   <project path="hardware/ril" name="android_hardware_ril" remote="jelly42" revision="jb-mr1" />
-  <project path="packages/apps/Apollo" name="android_packages_apps_Apollo" remote="jelly42" revision="cm-10.1" />
+  <project path="packages/apps/Apollo" name="android_packages_apps_Apollo" remote="jelly42" revision="mr1.1-staging" />
   <project path="packages/apps/Browser" name="packages_apps_Browser" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="jelly42" revision="jb-mr1" />
@@ -353,7 +353,7 @@
   <project path="packages/apps/Phone" name="packages_apps_Phone" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/ROMControl" name="packages_apps_ROMControl" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="jelly42" revision="jb-mr1" />
-  <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" remote="jelly42" revision="cm-10.1" />
+  <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" remote="jelly42" revision="mr1.1-staging" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" name="platform_prebuilts_gcc_linux-x86_arm_linaro-arm-eabi-4.7" remote="jelly42" revision="jb-mr1" />
   <project path="frameworks/av" name="frameworks_av" remote="jelly42" revision="jb-mr1" />
   <project path="frameworks/base" name="frameworks_base" remote="jelly42" revision="jb-mr1" />
