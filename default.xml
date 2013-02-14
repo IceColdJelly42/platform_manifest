@@ -237,7 +237,6 @@
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/CMFileManager" name="android_packages_apps_CMFileManager" remote="cm" revision="cm-10.1" />
-  <project path="packages/apps/Contacts" name="AOKP/packages_apps_Contacts" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/DSPManager" name="android_packages_apps_DSPManager" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
@@ -250,7 +249,6 @@
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="AOKP/packages_apps_Nfc" remote="aokp" revision="jb-mr1" />
-  <project path="packages/apps/PackageInstaller" name="AOKP/packages_apps_PackageInstaller" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="AOKP/packages_apps_QuickSearchBox" remote="aokp" revision="jb-mr1" />
@@ -346,9 +344,11 @@
   <project path="packages/apps/Browser" name="packages_apps_Browser" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="jelly42" revision="jb-mr1" />
+  <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Email" name="android_packages_apps_Email" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Mms" name="android_packages_apps_Mms" remote="jelly42" revision="jb-mr1" />
+  <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/PerformanceControl" name="packages_apps_PerformanceControl" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Phone" name="packages_apps_Phone" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/ROMControl" name="packages_apps_ROMControl" remote="jelly42" revision="jb-mr1" />
