@@ -237,7 +237,6 @@
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
-  <project path="packages/apps/CMFileManager" name="android_packages_apps_CMFileManager" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/DSPManager" name="android_packages_apps_DSPManager" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
@@ -345,6 +344,7 @@
   <project path="packages/apps/Browser" name="packages_apps_Browser" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="jelly42" revision="jb-mr1" />
+  <project path="packages/apps/CMFileManager" name="android_packages_apps_CMFileManager" remote="jelly42" revision="cm-10.1" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Email" name="android_packages_apps_Email" remote="jelly42" revision="jb-mr1" />
