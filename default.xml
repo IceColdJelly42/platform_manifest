@@ -32,7 +32,7 @@
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="cm-10.1" />
   <project path="cts" name="platform/cts" />
-  <project path="dalvik" name="android_dalvik" remote="cm" revision="cm-10.1" />
+  <project path="dalvik" name="android_zdalvik" remote="cm" revision="cm-10.1" />
   <project path="development" name="platform/development" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" />
@@ -174,7 +174,7 @@
   <project path="external/safe-iop" name="platform/external/safe-iop" />
   <project path="external/sepolicy" name="platform/external/sepolicy" />
   <project path="external/smali" name="platform/external/smali" />
-  <project path="external/skia" name="AOKP/external_skia" remote="aokp" revision="jb-mr1" />
+  <project path="external/skia" name="android_external_skia" remote="cm" revision="jb-mr1" />
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/speex" name="platform/external/speex" />
   <project path="external/sqlite" name="platform/external/sqlite" />
