@@ -361,6 +361,7 @@
   <project path="vendor/aokp" name="vendor_aokp" remote="jelly42" revision="jb-mr1" />
 
   <!-- Begin custom repos repos -->
+  <project path="packages/apps/TetheringHack" name="cesco89/TetheringHack" remote="github" revision="master" />
   <!--  <project path="external/polly" name="adrian-bl/android_pollyd" remote="github" revision="master" />
   <project path="packages/apps/Polly" name="adrian-bl/android_jpolly" remote="github" revision="master" /> -->
 </manifest>
