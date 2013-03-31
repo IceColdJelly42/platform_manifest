@@ -383,4 +383,5 @@
   <project path="system/netd" name="system_netd" remote="jelly42" revision="jb-mr1" />
   <project path="vendor/htc" name="vendor_htc" remote="jelly42" revision="jb-mr1" />
   <project path="vendor/aokp" name="vendor_aokp" remote="jelly42" revision="jb-mr1" />
+  <project path="vendor/tmobile/products/themes/JellyBlue_X" name="lotsOFFstuff/vendor_tmobile_themes_JellyBlue_X" remote="github" revision="JellyBlue_X" />
 </manifest>
