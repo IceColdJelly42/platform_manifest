@@ -117,7 +117,6 @@ revision="master" />
   <project path="external/jhead" name="platform/external/jhead" />
   <project path="external/jmdns" name="platform/external/jmdns" />
   <project path="external/jmonkeyengine" name="platform/external/jmonkeyengine" />
-  <project path="external/jpeg" name="AOKP/external_jpeg" remote="aokp" revision="jb-mr1" />
   <project path="external/jsilver" name="platform/external/jsilver" />
   <project path="external/jsr305" name="platform/external/jsr305" />
   <project path="external/junit" name="platform/external/junit" />
@@ -367,6 +366,7 @@ revision="master" />
   <!-- Begin IceColdJelly42 repos -->
   <project path="platform_manifest" name="platform_manifest" remote="jelly42" revision="jb-mr1" />
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="jelly42" revision="jb-mr1"/>
+  <project path="external/jpeg" name="platform_external_libjpeg-turbo" remote="jelly42" revision="libjpeg-turbo_1.3.0" />
   <project path="frameworks/av" name="frameworks_av" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Apollo" name="android_packages_apps_Apollo" remote="jelly42" revision="cm-10.1" />
   <project path="packages/apps/Browser" name="packages_apps_Browser" remote="jelly42" revision="jb-mr1" />
