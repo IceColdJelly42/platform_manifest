@@ -42,6 +42,7 @@
   <project path="device/generic/x86" name="device/generic/x86" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
+  <project path="device/htc/m7-common" name="android_device_htc_m7-common" remote="cm" revision="cm-10.1" />
   <project path="device/htc/msm8960-common" name="android_device_htc_msm8960-common" remote="cm" revision="cm-10.1" />
   <project path="device/lge/mako" name="device_lge_mako" remote="jelly42" revision="cm-10.1" />
   <project path="device/samsung/aries-common" name="IceColdJellyRom/android_device_samsung_aries-common" remote="github" revision="cm-10.1" />
@@ -365,7 +366,6 @@ revision="master" />
   <project path="dalvik" name="android_dalvik" remote="jelly42" revision="jb-mr1" />
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="jelly42" revision="jb-mr1"/>
   <project path="device/htc/m7" name="android_device_htc_m7" remote="jelly42" revision="cm-10.1" />
-  <project path="device/htc/m7-common" name="android_device_htc_m7-common" remote="jelly42" revision="cm-10.1" />
   <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="jelly42" revision="cm-10.1" />
   <project path="external/webkit" name="android_external_webkit" remote="jelly42" revision="cm-10.1" />
   <project path="frameworks/av" name="frameworks_av" remote="jelly42" revision="jb-mr1" />
