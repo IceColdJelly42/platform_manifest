@@ -376,7 +376,7 @@ revision="master" />
   <project path="packages/apps/Browser" name="packages_apps_Browser" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Calculator" name="android_packages_apps_Calculator" remote="jelly42" revision="cm-10.1" />
   <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="jelly42" revision="jb-mr1-maxwen" />
-  <project path="packages/apps/Camera" name="alienmind-org/android_packages_apps_Camera_m7" remote="github" revision="cm-10.1" />
+  <project path="packages/apps/CameraM7" name="alienmind-org/android_packages_apps_Camera" remote="github" revision="cm-10.1" />
   <project path="packages/apps/CMFileManager" name="android_packages_apps_CMFileManager" remote="jelly42" revision="cm-10.1" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="jelly42" revision="jb-mr1" />
