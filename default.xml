@@ -365,7 +365,7 @@ revision="master" />
   <project path="platform_manifest" name="platform_manifest" remote="jelly42" revision="jb-mr1" />
   <project path="dalvik" name="android_dalvik" remote="jelly42" revision="jb-mr1" />
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="jelly42" revision="jb-mr1"/>
-  <project path="device/htc/m7" name="device_htc_m7" remote="jelly42" revision="cm-10.1" />
+  <project path="device/htc/m7" name="android_device_htc_m7" remote="jelly42" revision="cm-10.1" />
   <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="jelly42" revision="cm-10.1" />
   <project path="external/webkit" name="android_external_webkit" remote="jelly42" revision="cm-10.1" />
   <project path="frameworks/av" name="frameworks_av" remote="jelly42" revision="jb-mr1" />
