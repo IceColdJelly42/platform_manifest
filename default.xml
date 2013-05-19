@@ -157,6 +157,7 @@ revision="master" />
   <project path="external/mockwebserver" name="platform/external/mockwebserver" />
   <project path="external/mp4parser" name="platform/external/mp4parser" />
   <project path="external/mtpd" name="platform/external/mtpd" />
+  <project path="external/nano" name="android_external_nano" remote="cm" revision="cm-10.1" />
   <project path="external/naver-fonts" name="platform/external/naver-fonts" />
   <project path="external/netcat" name="platform/external/netcat" />
   <project path="external/netperf" name="platform/external/netperf" />
@@ -201,6 +202,7 @@ revision="master" />
   <project path="external/tremolo" name="platform/external/tremolo" />
   <project path="external/v8" name="platform/external/v8" />
   <project path="external/valgrind" name="platform/external/valgrind" />
+  <project path="external/vim" name="android_external_vim" remote="cm" revision="cm-10.1" />
   <project path="external/webp" name="platform/external/webp" />
   <project path="external/webrtc" name="platform/external/webrtc" />
   <project path="external/wpa_supplicant_6" name="platform/external/wpa_supplicant_6" />
@@ -344,6 +346,7 @@ revision="master" />
   <project path="system/core" name="android_system_core" remote="cm" revision="cm-10.1" />
   <project path="system/extras" name="AOKP/system_extras" remote="aokp" revision="jb-mr1" />
   <project path="system/media" name="platform/system/media" />
+  <project path="system/netd" name="android_system_netd" remote="cm" revision="cm-10.1" />
   <project path="system/security" name="platform/system/security" />
   <project path="system/vold" name="android_system_vold" remote="cm" revision="cm-10.1" />
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
@@ -388,7 +391,6 @@ revision="master" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="jelly42" revision="jb-mr1" />
   <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" remote="jelly42" revision="jb-mr1" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="jelly42" revision="jb4.2" />
-  <project path="system/netd" name="system_netd" remote="jelly42" revision="jb-mr1" />
   <project path="vendor/htc" name="vendor_htc" remote="jelly42" revision="jb-mr1" />
   <project path="vendor/aokp" name="vendor_aokp" remote="jelly42" revision="jb-mr1" />
 </manifest>
