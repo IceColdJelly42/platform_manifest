@@ -167,9 +167,10 @@ revision="master" />
   <project path="external/oauth" name="platform/external/oauth" />
   <project path="external/okhttp" name="platform/external/okhttp" />
   <project path="external/opencv" name="platform/external/opencv" />
-  <project path="external/openfst" name="platform/external/openfst" />
-  <project path="external/openssh" name="platform/external/openssh" />
-  <project path="external/openssl" name="platform/external/openssl" />
+  <project path="external/openfst" name="android_external_openfst" remote="cm" revision="cm-10.1" />
+  <project path="external/openssh" name="android_external_openssh" remote="cm" revision="cm-10.1" />
+  <project path="external/openssl" name="android_external_openssl" remote="cm" revision="cm-10.1" />
+  <project path="external/openvpn" name="android_external_openvpn" remote="cm" revision="cm-10.1" />
   <project path="external/oprofile" name="platform/external/oprofile" />
   <project path="external/ping" name="platform/external/ping" />
   <project path="external/ping6" name="platform/external/ping6" />
