@@ -385,7 +385,7 @@ revision="master" />
   <project path="packages/apps/CMFileManager" name="android_packages_apps_CMFileManager" remote="jelly42" revision="cm-10.1" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="jelly42" revision="jb-mr1" />
-  <project path="packages/apps/DSPManager" name="android_packages_apps_DSPManager" remote="jely42" revision="cm-10.1" />
+  <project path="packages/apps/DSPManager" name="android_packages_apps_DSPManager" remote="jelly42" revision="cm-10.1" />
   <project path="packages/apps/Email" name="android_packages_apps_Email" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Gallery2" name="android_packages_apps_Gallery2" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/HALO" name="ParanoidAndroid/HALO" remote="github" revision="jellybean" />
