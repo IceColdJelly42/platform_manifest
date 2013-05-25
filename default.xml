@@ -91,7 +91,7 @@
   <project path="external/fat32lib" name="platform/external/fat32lib" />
   <project path="external/fdlibm" name="platform/external/fdlibm" />
   <project path="external/flac" name="platform/external/flac" />
-  <project path="external/freetype" name="platform/external/freetype" />
+  <project path="external/freetype" name="android_external_freetype" remote="cm" revision="cm-10.1" />
   <project path="external/fsck_msdos" name="platform/external/fsck_msdos" />
   <project path="external/ganymed-ssh2" name="platform/external/ganymed-ssh2" />
   <project path="external/gcc-demangle" name="platform/external/gcc-demangle" />
@@ -143,8 +143,8 @@ revision="master" />
   <project path="external/libusb-compat" name="platform/external/libusb-compat" />
   <project path="external/libvorbis" name="platform/external/libvorbis" />
   <project path="external/libvpx" name="platform/external/libvpx" />
-  <project path="external/libxml2" name="platform/external/libxml2" />
-  <project path="external/libxslt" name="platform/external/libxslt" />
+  <project path="external/libxml2" name="android_external_libxml2" remote="cm" revision="cm-10.1" />
+  <project path="external/libxslt" name="android_external_libxslt" remote="cm" revision="cm-10.1" />
   <project path="external/libyuv" name="platform/external/libyuv" />
   <project path="external/lzo" name="android_external_lzo" remote="cm" revision="cm-10.1" />
   <project path="external/linux-tools-perf" name="platform/external/linux-tools-perf" />
