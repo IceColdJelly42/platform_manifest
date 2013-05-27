@@ -32,7 +32,6 @@
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="cm-10.1" />
   <project path="cts" name="platform/cts" />
-  <project path="development" name="android_development" remote="cm" revision="cm-10.1" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" />
   <project path="device/generic/armv7-a" name="device/generic/armv7-a" />
@@ -369,6 +368,7 @@ revision="master" />
   <!-- Begin IceColdJelly42 repos -->
   <project path="platform_manifest" name="platform_manifest" remote="jelly42" revision="jb-mr1" />
   <project path="dalvik" name="android_dalvik" remote="jelly42" revision="jb-mr1" />
+  <project path="development" name="android_development" remote="jelly42" revision="cm-10.1" />
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="jelly42" revision="jb-mr1"/>
   <project path="device/htc/m7" name="android_device_htc_m7" remote="jelly42" revision="cm-10.1" />
   <project path="device/htc/m7-common" name="android_device_htc_m7-common" remote="jelly42" revision="cm-10.1" />
