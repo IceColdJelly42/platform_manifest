@@ -27,6 +27,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
+  <project path="bionic" name="android_bionic" remote="cm" revision="cm-10.1" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="cm-10.1" />
@@ -186,6 +187,7 @@ revision="master" />
   <project path="external/safe-iop" name="platform/external/safe-iop" />
   <project path="external/sepolicy" name="platform/external/sepolicy" />
   <project path="external/smali" name="platform/external/smali" />
+  <project path="external/skia" name="android_external_skia" remote="cm" revision="cm-10.1" />
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/speex" name="platform/external/speex" />
   <project path="external/sqlite" name="platform/external/sqlite" />
@@ -364,14 +366,12 @@ revision="master" />
 
   <!-- Begin IceColdJelly42 repos -->
   <project path="platform_manifest" name="platform_manifest" remote="jelly42" revision="jb-mr1" />
-  <project path="bionic" name="android_bionic" remote="jelly42" revision="jb-mr1" />
   <project path="dalvik" name="android_dalvik" remote="jelly42" revision="jb-mr1" />
   <project path="development" name="android_development" remote="jelly42" revision="cm-10.1" />
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="jelly42" revision="jb-mr1"/>
   <project path="device/htc/m7ul" name="android_device_htc_m7ul" remote="jelly42" revision="cm-10.1" />
   <project path="device/htc/m7-common" name="android_device_htc_m7-common" remote="jelly42" revision="cm-10.1" />
   <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="jelly42" revision="cm-10.1" />
-  <project path="external/skia" name="android_external_skia" remote="jelly42" revision="cm-10.1" />
   <project path="external/webkit" name="android_external_webkit" remote="jelly42" revision="cm-10.1" />
   <project path="frameworks/av" name="frameworks_av" remote="jelly42" revision="jb-mr1" />
   <project path="frameworks/base" name="frameworks_base" remote="jelly42" revision="jb-mr1" />
