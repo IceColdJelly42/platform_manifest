@@ -131,27 +131,27 @@ revision="master" />
   <project path="external/libmtp" name="platform/external/libmtp" />
   <project path="external/libncurses" name="android_external_libncurses" remote="cm" revision="cm-10.1" />
   <project path="external/libnfc-nci" name="android_external_libnfc-nci" remote="cm" revision="cm-10.1"/>
-  <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" />
-  <project path="external/libnl-headers" name="platform/external/libnl-headers" />
-  <project path="external/libogg" name="platform/external/libogg" />
-  <project path="external/libpcap" name="platform/external/libpcap" />
-  <project path="external/libphonenumber" name="platform/external/libphonenumber" />
-  <project path="external/libpng" name="AOKP/external_libpng" remote="aokp" revision="jb-mr1" />
-  <project path="external/libppp" name="platform/external/libppp" />
-  <project path="external/libselinux" name="platform/external/libselinux" />
-  <project path="external/libsepol" name="platform/external/libsepol" />
-  <project path="external/libusb" name="platform/external/libusb" />
-  <project path="external/libusb-compat" name="platform/external/libusb-compat" />
-  <project path="external/libvorbis" name="platform/external/libvorbis" />
-  <project path="external/libvpx" name="platform/external/libvpx" />
+  <project path="external/libnfc-nxp" name="android_external_libnfc-nxp" remote="cm" revision="cm-10.1" />
+  <project path="external/libnl-headers" name="android_external_libnl-headers" remote="cm" revision="cm-10.1" />
+  <project path="external/libogg" name="android_external_libogg" remote="cm" revision="cm-10.1" />
+  <project path="external/libpcap" name="android_external_libpcap" remote="cm" revision="cm-10.1" />
+  <project path="external/libphonenumber" name="android_external_libphonenumber" remote="cm" revision="cm-10.1" />
+  <project path="external/libpng" name="android_external_libpng" remote="cm" revision="cm-10.1" />
+  <project path="external/libppp" name="android_external_libppp" remote="cm" revision="cm-10.1" />
+  <project path="external/libselinux" name="android_external_libselinux" remote="cm" revision="cm-10.1" />
+  <project path="external/libsepol" name="android_external_libsepol" remote="cm" revision="cm-10.1" />
+  <project path="external/libusb" name="android_external_libusb" remote="cm" revision="cm-10.1" />
+  <project path="external/libusb-compat" name="android_external_libusb-compat" remote="cm" revision="cm-10.1" />
+  <project path="external/libvorbis" name="android_external_libvorbis" remote="cm" revision="cm-10.1" />
+  <project path="external/libvpx" name="android_external_libvpx" remote="cm" revision="cm-10.1" />
   <project path="external/libxml2" name="android_external_libxml2" remote="cm" revision="cm-10.1" />
   <project path="external/libxslt" name="android_external_libxslt" remote="cm" revision="cm-10.1" />
-  <project path="external/libyuv" name="platform/external/libyuv" />
+  <project path="external/libyuv" name="android_external_libyuv" remote="cm" revision="cm-10.1" />
   <project path="external/lzo" name="android_external_lzo" remote="cm" revision="cm-10.1" />
-  <project path="external/linux-tools-perf" name="platform/external/linux-tools-perf" />
-  <project path="external/littlemock" name="platform/external/littlemock" />
-  <project path="external/llvm" name="platform/external/llvm" />
-  <project path="external/lohit-fonts" name="platform/external/lohit-fonts" />
+  <project path="external/linux-tools-perf" name="android_external_linux-tools-perf" remote="cm" revision="cm-10.1" />
+  <project path="external/littlemock" name="android_external_littlemock" remote="cm" revision="cm-10.1" />
+  <project path="external/llvm" name="android_external_llvm" remote="cm" revision="cm-10.1" />
+  <project path="external/lohit-fonts" name="android_external_lohit-fonts" remote="cm" revision="cm-10.1" />
   <project path="external/koush/Superuser" name="AOKP/external_koush_Superuser" remote="aokp" revision="master" />
   <project path="external/koush/Widgets" name="AOKP/external_koush_Widgets" remote="aokp" revision="master" />
   <project path="external/markdown" name="platform/external/markdown" />
