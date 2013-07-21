@@ -100,6 +100,7 @@
   <project path="external/giflib" name="platform/external/giflib" />
   <project path="external/google-diff-match-patch" name="platform/external/google-diff-match-patch" />
   <project path="external/grub" name="platform/external/grub" />
+  <project path="external/gson" name="android_external_gson" remote="cm" revision="cm-10.1" />
   <project path="external/gtest" name="platform/external/gtest" />
   <project path="external/guava" name="platform/external/guava" />
   <project path="external/hamcrest" name="platform/external/hamcrest" />
@@ -152,6 +153,8 @@ revision="master" />
   <project path="external/littlemock" name="android_external_littlemock" remote="cm" revision="cm-10.1" />
   <project path="external/llvm" name="android_external_llvm" remote="cm" revision="cm-10.1" />
   <project path="external/lohit-fonts" name="android_external_lohit-fonts" remote="cm" revision="cm-10.1" />
+  <project path="external/koush/ion" name="ion" remote="cm" revision="cm-10.1" />
+  <project path="external/koush/AndroidAsync" name="AndroidAsync" remote="cm" revision="cm-10.1" />
   <project path="external/koush/Superuser" name="AOKP/external_koush_Superuser" remote="aokp" revision="master" />
   <project path="external/koush/Widgets" name="AOKP/external_koush_Widgets" remote="aokp" revision="master" />
   <project path="external/markdown" name="platform/external/markdown" />
@@ -300,6 +303,7 @@ revision="master" />
   <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" />
   <project path="packages/apps/VoiceDialer" name="AOKP/packages_apps_VoiceDialer" remote="aokp" revision="jb-mr1" />
+  <project path="packages/apps/VoicePlus" name="android_packages_apps_VoicePlus" remote="cm" revision="cm-10.1" />
   <project path="packages/experimental" name="platform/packages/experimental" />
   <project path="packages/inputmethods/LatinIME" name="AOKP/packages_input_LatinIME" remote="aokp" revision="jb-mr1" />
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" />
