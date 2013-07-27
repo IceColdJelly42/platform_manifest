@@ -61,6 +61,7 @@
   <project path="external/bash" name="android_external_bash" remote="cm" revision="cm-10.1" />
   <project path="external/bison" name="platform/external/bison" />
   <project path="external/blktrace" name="platform/external/blktrace" />
+  <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="cm" revision="cm-10.1" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" />
   <project path="external/busybox" name="android_external_busybox" remote="cm" revision="cm-10.1" />
@@ -378,7 +379,6 @@ revision="master" />
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="jelly42" revision="jb-mr1"/>
   <project path="device/htc/m7ul" name="android_device_htc_m7ul" remote="jelly42" revision="cm-10.1" />
   <project path="device/htc/m7-common" name="android_device_htc_m7-common" remote="jelly42" revision="cm-10.1" />
-  <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="jelly42" revision="cm-10.1" />
   <project path="external/webkit" name="android_external_webkit" remote="jelly42" revision="cm-10.1" />
   <project path="frameworks/av" name="frameworks_av" remote="jelly42" revision="jb-mr1" />
   <project path="frameworks/base" name="frameworks_base" remote="jelly42" revision="jb-mr1" />
