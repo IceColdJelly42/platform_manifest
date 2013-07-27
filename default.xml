@@ -146,7 +146,7 @@ revision="master" />
   <project path="external/libppp" name="android_external_libppp" remote="cm" revision="cm-10.2" />
   <project path="external/libselinux" name="android_external_libselinux" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="external/libsepol" name="android_external_libsepol" remote="cm" revision="cm-10.2" groups="pdk" />
-  <project path="external/libusb_aah" name="platform/external/libusb_aah" groups="libusb_aah" /> 
+  <project path="external/libusb" name="android_external_libusb" remote="cm" revision="cm-10.2" />
   <project path="external/libusb-compat" name="android_external_libusb-compat" remote="cm" revision="cm-10.2" />
   <project path="external/libvorbis" name="android_external_libvorbis" remote="cm" revision="cm-10.2" />
   <project path="external/libvpx" name="android_external_libvpx" remote="cm" revision="cm-10.2" groups="pdk" />
