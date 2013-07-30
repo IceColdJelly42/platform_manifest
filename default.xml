@@ -157,7 +157,6 @@ revision="master" />
   <project path="external/lohit-fonts" name="android_external_lohit-fonts" remote="cm" revision="cm-10.1" />
   <project path="external/koush/ion" name="ion" remote="cm" revision="cm-10.1" />
   <project path="external/koush/AndroidAsync" name="AndroidAsync" remote="cm" revision="cm-10.1" />
-  <project path="external/koush/Superuser" name="AOKP/external_koush_Superuser" remote="aokp" revision="master" />
   <project path="external/koush/Widgets" name="AOKP/external_koush_Widgets" remote="aokp" revision="master" />
   <project path="external/markdown" name="platform/external/markdown" />
   <project path="external/mdnsresponder" name="platform/external/mdnsresponder" />
@@ -403,6 +402,7 @@ revision="master" />
   <project path="packages/apps/Phone" name="packages_apps_Phone" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/ROMControl" name="packages_apps_ROMControl" remote="jelly42" revision="jb-mr1" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="jelly42" revision="jb-mr1" />
+  <project path="external/koush/Superuser" name="external_koush_Superuser" remote="jelly42" revision="master" />
   <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" remote="jelly42" revision="jb-mr1" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="jelly42" revision="jb4.2" />
   <project path="vendor/htc" name="vendor_htc" remote="jelly42" revision="jb-mr1" />
