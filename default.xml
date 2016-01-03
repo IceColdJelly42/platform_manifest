@@ -42,8 +42,6 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/htc/msm8960-common" name="android_device_htc_msm8960-common" remote="cm" revision="cm-10.1" />
   <project path="device/lge/mako" name="device_lge_mako" remote="jelly42" revision="cm-10.1" />
-  <project path="device/samsung/aries-common" name="IceColdJellyRom/android_device_samsung_aries-common" remote="github" revision="cm-10.1" />
-  <project path="device/samsung/galaxysmtd" name="IceColdJellyRom/android_device_samsung_galaxysmtd" remote="github" revision="cm-10.1" />
   <project path="device/sample" name="device/sample" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
@@ -92,7 +90,6 @@
   <project path="external/fdlibm" name="platform/external/fdlibm" />
   <project path="external/flac" name="platform/external/flac" />
   <project path="external/freetype" name="android_external_freetype" remote="cm" revision="cm-10.1" />
-  <project path="external/Focal" name="android_external_Focal" remote="cm" revision="cm-10.1" />
   <project path="external/fsck_msdos" name="platform/external/fsck_msdos" />
   <project path="external/fuse" name="android_external_fuse" remote="cm" revision="cm-10.1" />
   <project path="external/ganymed-ssh2" name="platform/external/ganymed-ssh2" />
@@ -248,7 +245,6 @@ revision="master" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="cm" revision="cm-10.1" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="cm" revision="cm-10.1" />
   <project path="hardware/msm7k" name="android_hardware_msm7k" remote="cm" revision="cm-10.1" />
-  <project path="hardware/samsung" name="IceColdJellyRom/hardware_samsung" remote="github" revision="jb-4.2" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="cm" revision="cm-10.1" />
   <project path="hardware/qcom/audio-caf" name="android_hardware_qcom_audio-caf" remote="cm" revision="cm-10.1" />
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" remote="cm" revision="cm-10.1" />
@@ -270,7 +266,6 @@ revision="master" />
   <project path="hardware/ril" name="android_hardware_ril" remote="cm" revision="cm-10.1" />
   <project path="kernel/htc/m7" name="android_kernel_htc_m7" remote="cm" revision="cm-10.1" />
   <project path="kernel/lge/mako" name="faux123/mako" remote="aokp" revision="enhanced_stock" />
-  <project path="kernel/samsung/aries" name="android_kernel_samsung_aries" remote="cm" revision="cm-10.1" /> 
   <project path="libcore" name="android_libcore" remote="cm" revision="cm-10.1" />
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
@@ -280,7 +275,6 @@ revision="master" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/Exchange" name="android_packages_apps_Exchange" remote="cm" revision="cm-10.1" />
-  <project path="packages/apps/Focal" name="android_packages_apps_Focal" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
@@ -363,7 +357,6 @@ revision="master" />
   <project path="tools/motodev" name="platform/tools/motodev" />
 
   <project path="vendor/lge" name="proprietary_vendor_lge" remote="jelly42" revision="cm-10.1" />
-  <project path="vendor/samsung" name="IceColdJellyRom/vendor_samsung" remote="github" revision="jb-4.2" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="AOKP/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr1" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="AOKP/vendor_tmobile_libs_com.tmobile.themes" remote="aokp" revision="jb-mr1" />
